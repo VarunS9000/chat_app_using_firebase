@@ -1,16 +1,12 @@
 # chat_app
 
-A chat applicatuin
+A chat application built using Flutter that uses FIrestore as a database and Firebase for authentication
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/62417466/142130363-f41af97d-7062-409b-9eaf-f83be8e951a6.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/62417466/142130367-11d303b9-fbcf-4bd0-a012-7228d7c70288.jpg" width="200" height="200">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+Click the below link to view the working of the appliction
+<a href="https://drive.google.com/file/d/1VexsdXXjZyoupI-1TYaXf7tCJR-mMnuS/view?usp=sharing">
