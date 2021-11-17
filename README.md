@@ -8,5 +8,5 @@ A chat application built using Flutter that uses FIrestore as a database and Fir
 <img src="https://user-images.githubusercontent.com/62417466/142130367-11d303b9-fbcf-4bd0-a012-7228d7c70288.jpg" width="300" height="700">
 
 ## Demo
-Click the below link to view the working of the appliction
-[Demo Video](https://drive.google.com/file/d/1VexsdXXjZyoupI-1TYaXf7tCJR-mMnuS/view?usp=sharing)
+Click the link to view the working of the appliction:
+ [Demo Video](https://drive.google.com/file/d/1VexsdXXjZyoupI-1TYaXf7tCJR-mMnuS/view?usp=sharing)
